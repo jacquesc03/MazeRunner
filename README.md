@@ -15,3 +15,8 @@ This repository contains the source code and documentation for an autonomous maz
 - **Test Benches and Validation:** Designed comprehensive test benches for both pre and post-synthesis validation. Ensured functionality and reliability before deploying the robot for maze testing.
 
 - **Synthesis with Pipelining:** Synthesized System Verilog code using Synopsis with pipelining techniques to meet timing constraints and enhance performance.
+
+## Demo
+
+https://github.com/jacquesc03/MazeRunner/assets/94155808/82ab71db-7be4-4083-ba67-d4a6575cc41c
+
